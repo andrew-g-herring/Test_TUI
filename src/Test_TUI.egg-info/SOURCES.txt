@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/main.py
+src/Test_TUI.egg-info/PKG-INFO
+src/Test_TUI.egg-info/SOURCES.txt
+src/Test_TUI.egg-info/dependency_links.txt
+src/Test_TUI.egg-info/entry_points.txt
+src/Test_TUI.egg-info/requires.txt
+src/Test_TUI.egg-info/top_level.txt

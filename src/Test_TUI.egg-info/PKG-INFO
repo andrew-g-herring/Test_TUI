@@ -1,0 +1,33 @@
+Metadata-Version: 2.4
+Name: Test_TUI
+Version: 1.0.0
+Summary: A centered red text terminal user interface built with blessed
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: blessed>=0.6.15
+Requires-Dist: jinxed==2.1.0
+Requires-Dist: wcwidth==0.8.2
+
+# Test_TUI
+
+Generates red text in the middle of the screen that says "hello"
+
+## Installation
+
+Install Test_TUI with npm:
+
+```bash
+  npm install my-project
+```
+
+## Usage
+
+```javascript
+import myProject from 'my-project';
+
+myProject.start();
+```
+
+## License
+
+[MIT](https://choosealicense.com)
