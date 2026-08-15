@@ -30,12 +30,11 @@ Summary:        %{summary}
 
 
 %generate_buildrequires
-%pyproject_buildrequires -x jinxed
+%pyproject_buildrequires
 
 
 %build
 %pyproject_wheel
-pip install jinxed==2.1
 
 
 %install
