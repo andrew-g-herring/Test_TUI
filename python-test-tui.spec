@@ -48,7 +48,7 @@ Summary:        %{summary}
 
 
 %files -n python3-test-tui -f %{pyproject_files}
-%{_bindir}/test_tui-cmd
+%{_bindir}/Test_TUI-cmd
 
 
 %changelog
